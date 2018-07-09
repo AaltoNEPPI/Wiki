@@ -1,2 +1,3 @@
 # Wiki
-This is the Wiki for the Aalto NEPPI course
+
+Please enter the [Wiki](https://github.com/AaltoNEPPI/Wiki/wiki) for the Aalto NEPPI course.
